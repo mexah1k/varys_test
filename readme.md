@@ -4,7 +4,7 @@ to run just use command: ``
 ## Usage
 
 ```bash
-node install
+npm install
 node main.js
 ```
 
