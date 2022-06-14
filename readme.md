@@ -1,5 +1,4 @@
 # COMMENTS
-to run just use command: ``
 
 ## Usage
 
